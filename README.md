@@ -1,10 +1,4 @@
 # Image Segmentation Benchmarking
-
-**Course:** CCIS 727 Computer Vision  
-**Institution:** Clark Atlanta University  
-**Department:** Cyber Physical Systems  
-**Author:** Christina Washington  
-
 ---
 
 ## 1. Project Overview
